@@ -1,0 +1,4 @@
+llama_index
+streamlit
+python-dotenv
+langchain
